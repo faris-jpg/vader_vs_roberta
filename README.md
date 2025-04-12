@@ -21,14 +21,6 @@ This project compares the performance of two sentiment analysis models — VADER
 
     Compared predictions to ground truth from star ratings
 
-    Generated:
-
-        Confusion matrices for each model
-
-        Execution time benchmarks
-
-        Count of misclassified positive/negative/neutral reviews
-
     Highlighted key strengths and limitations of each model
 
 ⚙️ Tools & Libraries
