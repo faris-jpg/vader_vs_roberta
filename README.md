@@ -5,7 +5,7 @@
 This project compares the performance of two sentiment analysis models — VADER (rule-based) and RoBERTa (transformer-based) — on a set of Goodreads book reviews. The goal is to evaluate their accuracy, efficiency, and misclassification patterns when classifying review sentiments.
 📄 Dataset
 
-    Source: Goodreads book reviews (subset from Kaggle)
+    Source: Goodreads book reviews [subset from Kaggle](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
 
     Fields used: text (review), rating (1–5 star scale)
 
